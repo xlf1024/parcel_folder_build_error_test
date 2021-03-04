@@ -1,0 +1,27 @@
+{
+  "name": "parcel_folder_build_error_test",
+  "version": "1.0.0",
+  "description": "this repository serves as test/demonstration for parcel issue#___. More info there.",
+  "main": "./dist/index.html",
+  "source": "./src/index.html",
+  "scripts": {
+    "build": "parcel build ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlf1024/parcel_folder_build_error_test.git"
+  },
+  "keywords": [
+    "parcel",
+    "issue"
+  ],
+  "author": "xlf1024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlf1024/parcel_folder_build_error_test/issues"
+  },
+  "homepage": "https://github.com/xlf1024/parcel_folder_build_error_test#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.614"
+  }
+}
